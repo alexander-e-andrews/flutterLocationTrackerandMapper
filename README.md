@@ -1,16 +1,11 @@
 # tie_your_shoes
 
-A new Flutter project.
+A learning project buidlt on flutter
+A mobile app that tracks your location and speed while it is open
+It then maps this path
 
-## Getting Started
+# TO DO:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Select different paths to view
+Do a strong wait so that the map is displayed with paths when you move over to it
+Have pop-ups when clicked on nodes to display information
